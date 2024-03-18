@@ -1,6 +1,6 @@
 # esmMasking
 Script to perform zero-shot prediction of mutational effects with ESM2 pLM
-
+![Alt text](Example_Heatmap.png "Heatmap for mutations for ꞵ-1,3-Glucan Synthase (FKS1)")
 
 ## References
 Implementation of: J. Meier doi: 10.1101/2021.07.09.450648
